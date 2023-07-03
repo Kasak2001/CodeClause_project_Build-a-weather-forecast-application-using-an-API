@@ -81,10 +81,7 @@ The project repository can be found in [GitHub link](https://github.com/Kasak200
 
 
 ```
-Using HTTPS
 
-# git clone  https://github.com/m-sehrawat/Weather-App.git
-```
 
 + Open terminal on your workspace with
 
